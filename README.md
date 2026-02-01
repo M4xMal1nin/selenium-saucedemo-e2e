@@ -6,8 +6,7 @@
 </p>
 
 <p>
-Проект написан на <strong>Python</strong> с использованием <strong>Pytest</strong> и</br>
-<strong>Selenium WebDriver</strong>, построен по принципам</br>
+Проект написан на <strong>Python</strong> с использованием <strong>Pytest</strong> и <strong>Selenium WebDriver</strong>, построен по принципам</br>
 <strong>Page Object Model</strong> и максимально приближен к реальному рабочему проекту.
 </p>
 
